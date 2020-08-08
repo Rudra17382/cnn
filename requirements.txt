@@ -1,0 +1,8 @@
+scikit-learn
+tensorflow
+numpy
+sklearn
+librosa
+tkinter
+matplotlib
+pygame
