@@ -16,7 +16,7 @@ The inspiration behind this project heavily lies on:
 2. Harvard CS50's Introduction to Artificial Intelligence with python `https://cs50.harvard.edu/summer/ai/2020/`
 3.  The YouTube channel 3Blue1Brown
  `https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw`
-4. Me and my best friend's love for music and for teaching people!
+4. Me and my best friend, Judica's, love for music and for teaching people!
 
 
 # How to get started?
