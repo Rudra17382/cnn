@@ -16,8 +16,6 @@ The inspiration behind this project heavily lies on:
 2. Harvard CS50's Introduction to Artificial Intelligence with python `https://cs50.harvard.edu/summer/ai/2020/`
 3.  The YouTube channel 3Blue1Brown
  `https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw`
-4. Me and my best friend, Judica's, love for music and for teaching people!
-
 
 # How to get started?
 First, make sure you have a dataset of music and their labels; the more data, the better! If you do not have a dataset then visit :
